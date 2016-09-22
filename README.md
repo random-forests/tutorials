@@ -1,2 +1,5 @@
-# Notebooks for use with videos and at developer events
+# Assorted TensorFlow tutorials
+
+Disclaimer: This is a personal repo and not an official Google product.
+
 License Apache 2.0
