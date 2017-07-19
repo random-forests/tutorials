@@ -1,5 +1,3 @@
-# Assorted TensorFlow tutorials
+# Assorted tutorials
 
-Disclaimer: This is a personal repo and not an official Google product.
-
-License Apache 2.0
+General disclaimer, this is my personal repo and not an official Google product. If you'd like to use this code, say, to build a mission critical component of your giant space laser, you should know there's no warranty, etc.
