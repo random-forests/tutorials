@@ -231,7 +231,7 @@ def find_best_split(rows):
 
     for col in range(n_features):  # for each feature
 
-        values = set([row[col] for row in rows])  # unique values in the column
+        values = unique_vals(rows, col)  # unique values in the column
 
         for val in values:  # for each value
 
