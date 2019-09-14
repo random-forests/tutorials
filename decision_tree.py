@@ -322,7 +322,7 @@ def build_tree(rows):
     # Return a Question node.
     # This records the best feature / value to ask at this point,
     # as well as the branches to follow
-    # dependingo on the answer.
+    # depending on the answer.
     return Decision_Node(question, true_branch, false_branch)
 
 
